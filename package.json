@@ -1,0 +1,13 @@
+{
+  "id": "deezer",
+  "name": "Deezer",
+  "version": "1.0",
+  "description": "deezer plugin for Franz 5",
+  "main": "index.js",
+  "author": "Abdulkarim Khormi <akmalkady@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/akmalkady/recipe-deezer",
+  "config": {
+    "serviceURL": "https://deezer.com/"
+  }
+}
