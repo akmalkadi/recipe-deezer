@@ -1,4 +1,4 @@
-# recipe-asana
+# recipe-deezer
 Recipe for Deezer integration with Franz 5
 
 ### How to create your own Franz recipes:
